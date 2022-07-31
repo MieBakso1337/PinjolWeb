@@ -1,6 +1,4 @@
-Nomor|Nama|Nama|Sistem|Elektonik|Sistem|Elektonik|Website|Nama|Perusahaan
-Surat|Tanda Berizin/Terdaftar|Tanggal|Jenis|UsahaSistem
-Operasi
+Nomor|Nama|Nama|Sistem|Elektonik|Sistem|Elektonik|Website|Nama|Perusahaan|Surat Tanda Berizin/Terdaftar|Tanggal|Jenis|Usaha Sistem Operasi
 1.|Danamas|https://p2p.danamas.co.id|PT|Pasar|Dana|Pinjaman|KEP-49/D.05/2017|06|Juli|2017|Konvensional|Android
 2.|investree|https://www.investree.id|PT|Investree|Radhika|Jaya|KEP-45/D.05/2019|13|Mei|2019
 Konvensional
